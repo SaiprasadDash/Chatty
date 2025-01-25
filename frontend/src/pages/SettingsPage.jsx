@@ -3,8 +3,8 @@ import { useThemeStore } from "../store/useThemeStore";
 import { Send } from "lucide-react";
 
 const PREVIEW_MESSAGES = [
-  { id: 1, content: "Gandi mara magia tu Quintal Dash", isSent: false },
-  { id: 2, content: "Thik achi bhai sry", isSent: true },
+  { id: 1, content: "Bhai kemiti achu?", isSent: false },
+  { id: 2, content: "Thik achi bhai!!", isSent: true },
 ];
 
 const SettingsPage = () => {
